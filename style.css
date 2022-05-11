@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(218, 40%, 88%);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.attribution {
+    margin-top: 50px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.card {
+    border-radius: 20px;
+    margin: 0;
+    padding: 0;
+    max-width: 355px;
+    background-color: white;
+    text-align: center;
+}
+
+h1 {
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+p{
+    color: rgb(122, 122, 122);
+    font-size: 17px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+    margin-bottom: 2.5em;
+    line-height: 1.3em;
+
+
+}
+.barcode-img{
+    border-radius: 15px;
+    width: 320px;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+
+
+}
