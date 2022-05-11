@@ -2,7 +2,7 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-My Solution :: qr-code-component-4i4.pages.dev
+My Solution :: (https://qr-code-component-4i4.pages.dev)
 
 ## The challenge
 
