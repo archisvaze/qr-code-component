@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Outfit', sans-serif;
-    background-color: hsl(218, 40%, 88%);
+    background-color: hsla(218, 41%, 88%, 0.925);
     display: flex;
     height: 100vh;
     justify-content: center;
